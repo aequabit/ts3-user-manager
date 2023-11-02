@@ -2,7 +2,7 @@
 
 ### A plugin to assist you with moderating your TeamSpeak 3 channels
 
-This is the brainchild of shitty720, he created the entirety of this plugin, I just ported it to modern MSVC and fixed up the file structure (and might add Linux support).
+This is the brainchild of shitty720, he created the entirety of this plugin, I just ported it to modern MSVC, fixed up the file structure and added Linux support.
 
 ### Features
 - Works on any server (You just need to enter the ID of the channel-admin,-mod,-ban groups)
